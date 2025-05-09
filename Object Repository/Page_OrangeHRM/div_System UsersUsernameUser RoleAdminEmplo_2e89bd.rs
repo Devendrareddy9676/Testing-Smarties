@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System UsersUsernameUser RoleAdminEmplo_2e89bd</name>
+   <tag></tag>
+   <elementGuidId>738fdc4c-8d3d-4f93-ae6a-060a4512c0b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#app div >> internal:has-text=&quot;System UsersUsernameUser RoleAdminEmployee NameInvalidStatusEnabled Reset Search&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23ead225-6e64-49f1-b466-ec29877c62ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>a0fd14e1-cc65-476b-bddf-48a3e8323100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System UsersUsernameUser RoleAdminEmployee NameInvalidStatusEnabled Reset  Search  Add  (4) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminmandaAJohn userEnabledpadmaAdminAdmin Admin123Enabledpavan@123ESSmandaAJohn userEnabledsatish2003ESSSatish MarisettyEnabled</value>
+      <webElementGuid>eb85c1e0-3895-4233-bb68-80f0f4abf183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>40e3635f-28e6-4d75-84d4-a0a4c62012ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>0023a8a9-814a-48d4-9a7a-8909fc07f29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[5]</value>
+      <webElementGuid>dc85c9fc-ee92-4105-9b0a-a35493a2d2e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[5]</value>
+      <webElementGuid>3eda822d-05cb-4ba5-b0c6-24b2cfe327a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>240786bd-c0d3-42e9-a0b2-5b19a7a5bbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'System UsersUsernameUser RoleAdminEmployee NameInvalidStatusEnabled Reset  Search  Add  (4) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminmandaAJohn userEnabledpadmaAdminAdmin Admin123Enabledpavan@123ESSmandaAJohn userEnabledsatish2003ESSSatish MarisettyEnabled' or . = 'System UsersUsernameUser RoleAdminEmployee NameInvalidStatusEnabled Reset  Search  Add  (4) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminmandaAJohn userEnabledpadmaAdminAdmin Admin123Enabledpavan@123ESSmandaAJohn userEnabledsatish2003ESSSatish MarisettyEnabled')]</value>
+      <webElementGuid>eb573eb2-68ba-4d06-9370-8d2439d99e9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
