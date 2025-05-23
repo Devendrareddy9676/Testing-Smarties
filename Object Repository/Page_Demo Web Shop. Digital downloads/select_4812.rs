@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_4812</name>
+   <tag></tag>
+   <elementGuidId>e84f6f8f-9541-4641-ba91-7f2ae14f48a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#products-pagesize</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='products-pagesize']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#products-pagesize</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0a206f40-9ff5-45e1-8e2a-b368fe31303b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>products-pagesize</value>
+      <webElementGuid>f79078d2-c7d3-43fe-9fb0-9e18618130ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>products-pagesize</value>
+      <webElementGuid>d62a2d0b-9665-48fd-bcc3-fea1ce1bee83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>setLocation(this.value);</value>
+      <webElementGuid>d7cf3757-379e-4c35-ae97-e20113080c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4
+8
+12
+</value>
+      <webElementGuid>fb4bb62c-7ab1-4db5-b718-813bf0501457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products-pagesize&quot;)</value>
+      <webElementGuid>34864cee-fa33-41b5-aaad-b46e37889273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='products-pagesize']</value>
+      <webElementGuid>2f55c8e2-39c2-4458-a7ea-cb115bf1aa1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/following::select[1]</value>
+      <webElementGuid>70503ee9-bfd0-42d7-a8a7-346809a3599f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::select[2]</value>
+      <webElementGuid>47a549f3-c93f-4be3-a504-0069d7196b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='per page'])[1]/preceding::select[1]</value>
+      <webElementGuid>65e16a40-aab7-4a47-9803-8ad009d0f8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music 2'])[1]/preceding::select[1]</value>
+      <webElementGuid>3f461679-4400-4b6c-8762-0a0702403a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>7587ba61-2489-4351-85c6-234545ac7ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'products-pagesize' and @name = 'products-pagesize' and (text() = '4
+8
+12
+' or . = '4
+8
+12
+')]</value>
+      <webElementGuid>e8db41e2-f5a6-44f0-8682-1da5996dac5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

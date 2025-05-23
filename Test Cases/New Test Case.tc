@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_Search_function</name>
-   <tag>Get</tag>
+   <name>New Test Case</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>21f6c6a8-7924-4592-9df9-14ee9d474b11</testCaseGuid>
+   <testCaseGuid>57a36214-823b-4724-9f9f-81dbf1c9021b</testCaseGuid>
 </TestCaseEntity>

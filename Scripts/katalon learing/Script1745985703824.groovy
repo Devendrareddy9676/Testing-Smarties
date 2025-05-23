@@ -22,11 +22,31 @@ navigate to "https://academy.katalon.com/learning-path/"
 close browser
 */
 // Open a browser
-WebUI.openBrowser('')  
-// Navigate to the specified URL
-WebUI.navigateToUrl('https://academy.katalon.com/learning-path/')  
-// Close the browser
-WebUI.closeBrowser()  
+WebUI.openBrowser('')
 
-WebUI.openBrowser('') // Opens a new browser
-WebUI.navigateToUrl('https://academy.katalon.com/learning-path/') // Navigates to the Katalon Academy learning path
+// Navigate to the specified URL
+WebUI.navigateToUrl('https://academy.katalon.com/learning-path/')
+
+// Close the browser
+WebUI.closeBrowser()
+
+WebUI.openBrowser('' // Opens a new browser
+    )
+
+WebUI.navigateToUrl('https://academy.katalon.com/learning-path/' // Navigates to the Katalon Academy learning path
+    )
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/digital-downloads')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/TC_Demoshopping/Page_Demo Web Shop. Digital downloads/select_4812'), 
+    'https://demowebshop.tricentis.com/digital-downloads?pagesize=12', true)
+
+WebUI.click(findTestObject('Object Repository/TC_Demoshopping/Page_Demo Web Shop. Digital downloads/li_Jewelry'))
+
+WebUI.click(findTestObject('Object Repository/TC_Demoshopping/Page_Demo Web Shop. Digital downloads/a_Gift Cards'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/TC_Demoshopping/Page_Demo Web Shop. Gift Cards/select_PositionName A to ZName Z to APrice _c128dc'), 
+    'https://demowebshop.tricentis.com/gift-cards?orderby=6', true)
+

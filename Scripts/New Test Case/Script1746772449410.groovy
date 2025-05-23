@@ -17,31 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-// Open the browser with the specified URL
-WebUI.openBrowser('https://www.kawasaki-india.com/')
+WebUI.openBrowser('')
 
-// Close the browser
-WebUI.closeBrowser()
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/digital-downloads')
 
-/*
- open browser "https://www.kawasaki-india.com/"
- close browser*/
-// Open the specified URL in a new browser window
-WebUI.openBrowser('https://www.kawasaki-india.com/')
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Demo Web Shop. Digital downloads/select_PositionName A to ZName Z to APrice _c128dc'), 
+    "Created on", false)
 
-// Close the currently opened browser
-WebUI.closeBrowser()
-// Open the specified URL in a new browser window
-WebUI.openBrowser('https://www.bmw.in/en/index.html')
+WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Demo Web Shop. Digital downloads/select_4812'), "12", 
+    true)
 
-// Close the currently opened browser window
-WebUI.closeBrowser()
-
-/*
- open browser "https://www.KTM-india.com/"
- close browser*/
-// Open the specified URL in a new browser window
-WebUI.openBrowser('https://www.KTM-india.com/')
-
-// Close the currently opened browser
-WebUI.closeBrowser()

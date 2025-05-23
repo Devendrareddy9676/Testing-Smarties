@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 // Open the specified URL in a web browser
-WebUI.openBrowser('https://www.bmw.in/en/index.html')
+WebUI.openBrowser('https://www.bmw.in/en/index.html')  
 
 // Close the browser
 WebUI.closeBrowser()
@@ -27,6 +27,7 @@ WebUI.closeBrowser()
  open browser "https://www.bmw.in/en/index.html"
  close browser*/
 // Open the specified URL in a new browser window
+
 WebUI.openBrowser('https://www.bmw.in/en/index.html')
 
 // Close the currently opened browser window
